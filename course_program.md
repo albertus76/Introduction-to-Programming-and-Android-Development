@@ -8,7 +8,7 @@
   - How to write and save your first code
 
 - [ ] Lesson 1.2: Development Environment Setup
-  - Android Studio Installation
+  - Cursor Installation
   - JDK (Java Development Kit) Configuration
   - Creating your first Android Project
   - Basic Android Project Structure
